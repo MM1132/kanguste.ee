@@ -1,0 +1,22 @@
+{
+  "name": "kanguste.ee",
+  "version": "1.0.0",
+  "description": "The website of kanguste.ee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MM1132/kanguste.ee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MM1132/kanguste.ee/issues"
+  },
+  "homepage": "https://github.com/MM1132/kanguste.ee#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

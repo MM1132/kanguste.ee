@@ -1,0 +1,25 @@
+a {
+    text-decoration: none;
+    color: #257737;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+li {
+    margin-top: 5px;
+}
+
+ul, h3 {
+    margin: 0;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+body {
+    margin: 20px;
+}
